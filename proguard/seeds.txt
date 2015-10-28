@@ -1,0 +1,100 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.semenog.game.tetris.Figure$FigureMotion: com.semenog.game.tetris.Figure$FigureMotion[] values()
+com.semenog.game.tetris.Figure$FigureMotion: com.semenog.game.tetris.Figure$FigureMotion valueOf(java.lang.String)
+com.semenog.game.tetris.Figure$FigureType: com.semenog.game.tetris.Figure$FigureType[] values()
+com.semenog.game.tetris.Figure$FigureType: com.semenog.game.tetris.Figure$FigureType valueOf(java.lang.String)
+com.semenog.game.tetris.GameView: void gethercompletedLines()
+com.semenog.game.tetris.MainActivity
+com.semenog.game.tetris.MainActivity: MainActivity()
+com.semenog.game.tetris.PlayActivity
+com.semenog.game.tetris.PlayActivity: PlayActivity()
+com.semenog.game.tetris.R$color: int bg_color
+com.semenog.game.tetris.R$color: int fg_color
+com.semenog.game.tetris.R$dimen: int main_menu_item_width
+com.semenog.game.tetris.R$drawable: int bg1
+com.semenog.game.tetris.R$drawable: int blockimage
+com.semenog.game.tetris.R$drawable: int brickholder
+com.semenog.game.tetris.R$drawable: int brickholderclicked
+com.semenog.game.tetris.R$drawable: int colon
+com.semenog.game.tetris.R$drawable: int down
+com.semenog.game.tetris.R$drawable: int downedge
+com.semenog.game.tetris.R$drawable: int ic_action_search
+com.semenog.game.tetris.R$drawable: int ic_launcher
+com.semenog.game.tetris.R$drawable: int image01
+com.semenog.game.tetris.R$drawable: int image02
+com.semenog.game.tetris.R$drawable: int image03
+com.semenog.game.tetris.R$drawable: int image04
+com.semenog.game.tetris.R$drawable: int image05
+com.semenog.game.tetris.R$drawable: int image06
+com.semenog.game.tetris.R$drawable: int image07
+com.semenog.game.tetris.R$drawable: int image08
+com.semenog.game.tetris.R$drawable: int l_rotate
+com.semenog.game.tetris.R$drawable: int left
+com.semenog.game.tetris.R$drawable: int line
+com.semenog.game.tetris.R$drawable: int num0
+com.semenog.game.tetris.R$drawable: int num1
+com.semenog.game.tetris.R$drawable: int num2
+com.semenog.game.tetris.R$drawable: int num3
+com.semenog.game.tetris.R$drawable: int num4
+com.semenog.game.tetris.R$drawable: int num5
+com.semenog.game.tetris.R$drawable: int num6
+com.semenog.game.tetris.R$drawable: int num7
+com.semenog.game.tetris.R$drawable: int num8
+com.semenog.game.tetris.R$drawable: int num9
+com.semenog.game.tetris.R$drawable: int number
+com.semenog.game.tetris.R$drawable: int r_rotate
+com.semenog.game.tetris.R$drawable: int right
+com.semenog.game.tetris.R$drawable: int time
+com.semenog.game.tetris.R$id: int menu_settings
+com.semenog.game.tetris.R$id: int textView1
+com.semenog.game.tetris.R$layout: int activity_main
+com.semenog.game.tetris.R$menu: int activity_main
+com.semenog.game.tetris.R$string: int Play
+com.semenog.game.tetris.R$string: int app_name
+com.semenog.game.tetris.R$string: int hello_world
+com.semenog.game.tetris.R$string: int menu_settings
+com.semenog.game.tetris.R$string: int title_activity_main
+com.semenog.game.tetris.R$style: int AppTheme
+com.tjeannin.apprate.R$string: int app_name

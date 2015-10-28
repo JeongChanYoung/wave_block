@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Wave Bricks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Wave Bricks</string>
+	<string name="Play">wave bricks</string>
+	
+</resources>
