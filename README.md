@@ -5,4 +5,3 @@ You can play and remake them. One thing I want to tell you is that this Wave Blo
 
 Have a fun.
 
-Google Play - https://play.google.com/store/apps/details?id=com.kyde.game.tetris
